@@ -1,5 +1,15 @@
-# Vue 3 + TypeScript + Vite
+# Markdown Editor
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Personal practice project
+- For WYSIWYG markdown editor
+- Using: Vite/Vue/Typescript/TailwindCSS/markdown-it
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Plan:
+- [x] Markdown rendering
+- [ ] Markdown editor
+- [ ] WYSIWYG editor
+- [ ] Scroll synchronization
+- [ ] Image paste or drag
+- [ ] Support of :
+    - [ ] Mathematical formulas
+    - [ ] Flowcharts
